@@ -51,7 +51,4 @@ $\Delta n_{i\to j}\propto a_j^2$
 $\alpha$: mechanical sensitivity , E: base Young modulus ,  dE: softening strength , c0: reference concentration , Nk: injected softening agent per step 
 
 ---
-## Interpretation
 
-
- Edges with higher concentration soften more and increase their radius; larger edges transport more chemical agent, reinforcing their size. 

@@ -256,5 +256,5 @@ Gn = CreateEmptyGraph(m,n)
 L = Simulate(50,G,Gai,Gn)
 RenderAnimation(L,G)
 
-#I didn't add the decay part since in the paper they say it's not a very important effect but it can simply be added by multiplying the n by a number less then 1 at each step
-#The parameters I chose work fine but I didn't do much testing feel free to experiment and modify :)
+# decay part can simply be added by multiplying the n by a number less then 1 at each step
+

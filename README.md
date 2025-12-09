@@ -1,6 +1,6 @@
 # Bio-project-slime-mold
 
-# Bio-project
+
 This project implements a simplified network model for memory encoding in tube diameter hierarchy of P. Polycephalum. A chemical softening agent flows through network edges and modifies their radius depending on local concentration. 
 
 ## Overview
